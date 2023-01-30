@@ -9,6 +9,7 @@
   - [Clean and Analyze Data using PowerQuery](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/edit/main/README.md#cleaning-and-analyzing-using-power-query-and-dax-queries)
   - [Exploring Data Using DAX Query](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/edit/main/README.md#exploring-some-data-using-dax-query)
   - [Create Dashboard Using Visulizations and filters](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/edit/main/README.md#creating-a-dashboard-in-power-bi)
+  - [Dashboard](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/edit/main/README.md#dashboard)
 
 
 ## **Tools Used**
@@ -55,6 +56,14 @@
 *  Add Card chart, Pie chart, Line chart, Table chart, Matrix chart, Area chart etc
 
 
+## **Dashboard**
+
+  [Download The File](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/blob/main/HR_DASHBOARD_PowerBI%20Project.pbix) and Open In Power BI Desktop for Interactive Viewing.
+
+  [View Screenshots](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/blob/main/HR-Attendance%20PowerBI%20Dashboard.pdf) of the Dashboard in PDF format.
+  
+ 
+*  **Note:** The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it.
 
 
 
