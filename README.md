@@ -17,7 +17,7 @@
 * Microsoft Excel
 * Power BI
 * Power Query
-* Dax Query
+* Dax Functions Query
 
 
 ## **Cleaning and Analyzing using Power Query and DAX Queries**
