@@ -76,13 +76,17 @@
 
 
 
-<!---
+
+
+
+
+<!--
 
  - [worksheet Before - After cleaning and Analyze](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/edit/main/README.md#attendance-data-worksheet-before-cleaning-and-analizing)
 
 ## Attendance Data Worksheet Before Cleaning and Analizing
 
-<img src="https://user-images.githubusercontent.com/121340232/215427442-50eafcca-7b7c-4932-9bcb-5cfdd79efa4c.png" height="380" width="500">    <img src="https://user-images.githubusercontent.com/121340232/215428079-953031c3-9657-450a-96d5-a72515b4747c.png" height="380" width="250">
+<img src="https://user-images.githubusercontent.com/121340232/215525517-5a1d1d20-4519-42ff-b545-ff0241b4f864.png" height="400" width="700">    <img src="https://user-images.githubusercontent.com/121340232/215428079-953031c3-9657-450a-96d5-a72515b4747c.png" height="400" width="250">
 
 
 ## Attendance Data WorkSheet After Cleaning and Analizing
