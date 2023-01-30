@@ -60,7 +60,7 @@
 
   [Download The File](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/blob/main/HR_DASHBOARD_PowerBI%20Project.pbix) and Open In Power BI Desktop for Interactive Viewing.
 
-  [View Screenshots](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/blob/main/HR-Attendance%20PowerBI%20Dashboard.pdf) of the Dashboard in PDF format.
+  [View Screenshots](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/blob/main/PowerBI%20HR-Dashboard.pdf) of the Dashboard in PDF format.
   
  
 *  **Note:** The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it.
