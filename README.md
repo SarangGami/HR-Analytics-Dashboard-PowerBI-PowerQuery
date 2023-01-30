@@ -62,7 +62,7 @@
 
   [View Screenshots](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/blob/main/PowerBI%20HR-Dashboard.pdf) of the Dashboard in PDF format.
   
-  [View Photos](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/tree/main/Power%20BI%20HR-Dashboard%20Photos) with diff-diff slicers applying for Dashboard.
+  [View Photos](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/tree/main/Power%20BI%20HR-Dashboard%20Photos) of Dashboard with diff-diff slicers apply.
   
  
 *  **Note:** The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it.
