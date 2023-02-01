@@ -31,8 +31,8 @@
 * Load and Apply the cleaned data into Power BI
 
 
-
 <img src="https://user-images.githubusercontent.com/121340232/215422133-46b98d23-2fe0-4a18-982f-a61f8fc0dbf1.png" height="300" width="250">    <img src="https://user-images.githubusercontent.com/121340232/215421953-43136862-0cd0-4fd6-b040-31cdfbf520af.png" height="300" width="250">    <img src="https://user-images.githubusercontent.com/121340232/215423579-22676df9-b221-4d66-b08b-876ee6d8cb9a.png" height="300" width="250">
+
 
 
 
@@ -42,7 +42,8 @@
 * With DAX Query, we can effectively manipulate and analyze the data to provide insights for visulization and identify areas for improvement for HR.
 * Create Measures and columns Using DAX functions such as count, sum, calculate, if, switch, divide and Date-time function for exploring some clean data for improve dashboard KPI in PowerBI.
 
-<img src="https://user-images.githubusercontent.com/121340232/215944729-ab5bdb61-289d-4c99-bd7c-bf48cd5ab1b4.png" height="300" width="250">    <img src="https://user-images.githubusercontent.com/121340232/215944919-81dc817b-d2b3-47ef-b83b-a43411307a21.png" height="300" width="250">
+<img src="https://user-images.githubusercontent.com/121340232/215957569-27b24ab1-bc2e-42b6-aa8e-57ab14b28c07.png" height="300" width="250">    <img src="https://user-images.githubusercontent.com/121340232/215957647-6d2995ea-7b89-4950-ad56-a65589324173.png" height="300" width="250">
+
 
 
 ## **Creating a Dashboard in Power BI**
@@ -57,9 +58,9 @@
 
 ## **Dashboard**
 
-  [Download The File](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/blob/main/HR_DASHBOARD_PowerBI%20Project.pbix) and Open In Power BI Desktop for Interactive Viewing.
+  [Download The File](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/blob/main/HR_DASHBOARD_PowerBI%20Project.pbix) and Open In Power BI Desktop for Interactive Viewing.
 
-  [View Screenshots](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/blob/main/PowerBI%20HR-Dashboard.pdf) of the Dashboard in PDF format.
+  [View Screenshots](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/blob/main/PowerBI%20HR%20Dashboard.pdf) of the Dashboard in PDF format.
   
   [View Photos](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/tree/main/Power%20BI%20HR-Dashboard%20Photos) of Dashboard with diff-diff slicers apply.
   
