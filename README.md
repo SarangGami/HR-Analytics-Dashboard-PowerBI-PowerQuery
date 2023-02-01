@@ -2,14 +2,15 @@
 
 #### This project showcases the use of Power Query and DAX Query to analyze employee attendance data, add new measures and columns, and create a dashboard using Power BI. The goal is to provide insights into attendance patterns and identify areas for improvement for HR.
 
-
+<!--
 # Table Of Contents
   
-  - [Tools Used]
-  - [Clean and Analyze Data using PowerQuery]
-  - [Exploring Data Using DAX Query]
-  - [Create Dashboard Using Visulizations and filters]
-  - [Dashboard]
+  1. #### **[Tools Used]**
+  2. #### **[Clean and Analyze Data using PowerQuery]**
+  3. #### **[Exploring Data Using DAX Query]**
+  4. #### **[Create Dashboard Using Visulizations and filters]**
+  5. #### **[Dashboard]**
+--->
 
 
 ## **Tools Used**
