@@ -42,8 +42,7 @@
 * With DAX Query, we can effectively manipulate and analyze the data to provide insights for visulization and identify areas for improvement for HR.
 * Create Measures and columns Using DAX functions such as count, sum, calculate, if, switch, divide and Date-time function for exploring some clean data for improve dashboard KPI in PowerBI.
 
-<img src="https://user-images.githubusercontent.com/121340232/215419436-73698ac9-80d3-4e0e-8472-45d5663c39d8.png" height="300" width="250">    <img src="https://user-images.githubusercontent.com/121340232/215420084-ee34b555-adbd-4155-b589-5aeb748f5817.png" height="300" width="250">
-
+<img src="https://user-images.githubusercontent.com/121340232/215944729-ab5bdb61-289d-4c99-bd7c-bf48cd5ab1b4.png" height="300" width="250">    <img src="https://user-images.githubusercontent.com/121340232/215944919-81dc817b-d2b3-47ef-b83b-a43411307a21.png" height="300" width="250">
 
 
 ## **Creating a Dashboard in Power BI**
