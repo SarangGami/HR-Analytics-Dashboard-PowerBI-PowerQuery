@@ -5,11 +5,11 @@
 
 # Table Of Contents
   
-  - [Tools Used](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/edit/main/README.md#tools-used)
-  - [Clean and Analyze Data using PowerQuery](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/edit/main/README.md#cleaning-and-analyzing-using-power-query-and-dax-queries)
-  - [Exploring Data Using DAX Query](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/edit/main/README.md#exploring-some-data-using-dax-query)
-  - [Create Dashboard Using Visulizations and filters](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/edit/main/README.md#creating-a-dashboard-in-power-bi)
-  - [Dashboard](https://github.com/SarangGami/HR-Analysis-Dashboard-Using-PowerBI-and-PowerQuery/edit/main/README.md#dashboard)
+  - [Tools Used](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/edit/main/README.md#tools-used)
+  - [Clean and Analyze Data using PowerQuery](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/edit/main/README.md#cleaning-and-analyzing-using-power-query)
+  - [Exploring Data Using DAX Query](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/edit/main/README.md#exploring-and-manipulate-some-data-using-dax-query)
+  - [Create Dashboard Using Visulizations and filters](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/edit/main/README.md#creating-a-dashboard-in-power-bi)
+  - [Dashboard](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/edit/main/README.md#dashboard)
 
 
 ## **Tools Used**
@@ -20,7 +20,7 @@
 * Dax Functions Query
 
 
-## **Cleaning and Analyzing using Power Query and DAX Queries**
+## **Cleaning and Analyzing using Power Query**
 
 * Open Excel and connect to your employee attendance data
 * Use Power Query to clean and transform the data
