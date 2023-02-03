@@ -15,7 +15,6 @@
 
 ## **Tools Used**
 
-* Microsoft Excel
 * Power BI
 * Power Query
 * Dax Functions Query
