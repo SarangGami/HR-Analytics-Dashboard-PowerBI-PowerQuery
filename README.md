@@ -47,13 +47,13 @@
 
 
 
-## **Creating a Dashboard in Power BI**
+## **Power BI Dashboard Visualization**
 
 *  Design the dashboard layout
 *  Create a measure table to aggregate and display the data using Dax functions
 *  Use Visulizations for charts and filters for filter dashboard
 *  Now, Add Title HR Dashboard
-*  Add Month column as Slicer
+*  Add Month column as Slicer and add some informative KPI.
 *  Add Card chart, Pie chart, Line chart, Table chart, Matrix chart, Area chart etc
 
 
@@ -63,7 +63,7 @@
 
   [View Screenshots](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/blob/main/PowerBI%20HR%20Dashboard.pdf) of the Dashboard in PDF format.
   
-  [View Photos](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/tree/main/Power%20BI%20HR-Dashboard%20Photos) of Dashboard with diff-diff slicers apply.
+  [View Photos](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/tree/main/Power%20BI%20HR-Dashboard%20Photos) of Dashboard and excel analysis.
   
  
 *  **Note:** The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it.
